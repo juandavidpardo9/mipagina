@@ -1,0 +1,78 @@
+* {
+  margen : 0 ;
+  relleno : 0 ;
+  tamaño de la caja : border-box;
+}
+
+cuerpo {
+  font-family : arial;
+  imagen de fondo : url ( 'bg.png' );
+}
+
+. formulario de inicio de sesión {
+  ancho : 400 px ;
+  altura : 340 px ;
+  fondo : # 4e4d4d ;
+  margen : auto;
+  margen superior : 180 px ;
+  sombra de cuadro : 7 px  13 px  37 px  # 000 ;
+  relleno : 20 px  30 px ;
+  borde superior : 4 px sólido # 017bab ;
+  color : blanco;
+}
+
+. formulario-login  h5 {
+  margen : 0 ;
+  alinear texto : centro;
+  altura : 40 px ;
+  margen inferior : 30 px ;
+  borde inferior : 1 px sólido;
+  tamaño de fuente : 20 px ;
+}
+
+. controles {
+  ancho : 100 % ;
+  borde : 1 px sólido # 017bab ;
+  margen inferior : 15 px ;
+  relleno : 11 px  10 px ;
+  fondo : # 252323 ;
+  tamaño de fuente : 14 px ;
+  peso de fuente : negrita;
+}
+
+. botones {
+  ancho : 100 % ;
+  altura : 40 px ;
+  fondo : # 017bab ;
+  borde : ninguno;
+  color : blanco;
+  margen inferior : 16 px ;
+}
+
+. formulario-login  p {
+  altura : 40 px ;
+  alinear texto : centro;
+  borde inferior : 1 px sólido;
+}
+
+. form-login  a {
+  color : blanco;
+  decoración de texto : ninguno;
+  tamaño de fuente : 14 px ;
+}
+
+. form-login  a : hover {
+  decoración de texto : subrayado;
+}
+© 2020 GitHub, Inc.
+Condiciones
+Intimidad
+Seguridad
+Estado
+Ayuda
+Póngase en contacto con GitHub
+Precios
+API
+Formación
+Blog
+Acerca de
